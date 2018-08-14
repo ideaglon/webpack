@@ -1,0 +1,14 @@
+body {
+    background: #555;
+    display: flex;
+}
+.icon {
+    background: url('images/zan.svg');
+    width: 200px;
+    height: 200px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    background: url(images/sj.png)
+}
